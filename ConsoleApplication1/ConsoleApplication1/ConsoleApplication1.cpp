@@ -6,12 +6,11 @@
 #include <string>
 
 using namespace std;
-
+github
 class Book {
 public:
     string title;
     string author;
-
     Book(string t, string a) : title(t), author(a) {}
 };
 
